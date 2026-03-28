@@ -1,0 +1,58 @@
+{
+  "Name": "CodeBlocks",
+
+  "Creator": [{
+    "Rio-Areos": [
+      "role: Main-Dev",
+      "Age: 13"
+    ],
+
+    "None": [
+      "role: ???",
+      "Age: ???"
+    ],
+
+    "None-2": [
+      "role: ???",
+      "Age: ???"
+    ],
+
+    "None-3": [
+      "role: ???",
+      "Age: ???"
+    ]
+  }],
+
+  "LocationPath": [{
+    "~/storage/": [{
+      "emulated/": [{
+        "0/": [{
+          "Download/": [{
+            "Github__Project": [{
+              "CodeBlocks": [
+                "???"
+              ]
+
+            }]
+
+          }]
+
+        }]
+
+      }]
+
+    }]
+
+  }],
+
+  "CblocksCache": [
+    "log.txt",
+    "errors.txt",
+    "loggies.txt"
+  ],
+
+  "CblocksMemory": [
+    "\/r¥°℅¢",
+    "\\n{.formats}"
+  ]
+}
